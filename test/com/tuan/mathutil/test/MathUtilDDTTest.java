@@ -19,7 +19,7 @@ import org.junit.runners.Parameterized.Parameters;
  */
 
 @RunWith(value = Parameterized.class)
-public class MathUtilTDDTest {
+public class MathUtilDDTTest {
     
     //0
     @Parameters
